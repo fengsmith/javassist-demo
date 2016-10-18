@@ -7,7 +7,7 @@
 
 ### javassist 动态代理 demo
 mybatis 框架用 javassist 为懒加载对象创建了代理对象。
-下面是代码，完整工程可以在我的 github 下载：[demo]()
+下面是代码，完整工程可以在我的 github 下载：[demo](https://github.com/fengsmith/javassist-demo)
 
     public class ProxyFactoryExample {
           public void foo() throws Exception {
